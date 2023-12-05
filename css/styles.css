@@ -46,14 +46,16 @@
   box-shadow: 1px 1px 1px 1px black;
 }
 
-.button.operator {
-  background-color: #f0f0f0;
+.button1 {
+  width: 100%;
+  height: 48px;
+  font-size: 28px;
+  cursor: pointer;
+  background-color: rgb(255, 68, 0);
+  border: 0;
+  box-shadow: 1px 1px 1px 1px black;
 }
 
-.button.equal {
-  background-color: #e8491d;
-  color: #fff;
-}
 
 .footer {
   position: absolute;
